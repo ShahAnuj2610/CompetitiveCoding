@@ -1,4 +1,4 @@
-#Pretests passed
+#System test passed
 from collections import defaultdict
 
 n = int(raw_input())
