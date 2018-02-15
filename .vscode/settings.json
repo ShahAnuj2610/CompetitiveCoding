@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": false,
+    "files.associations": {
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp",
+        "ostream": "cpp"
+    },
+    "python.formatting.provider": "autopep8"
+}
