@@ -10,8 +10,8 @@ for _ in xrange(t):
     while next < n:
         if a[curr] * k + b <= a[next]:
             count += 1
+            curr = next
             next += 1
-            curr += 1
         else:
             next += 1
     print count
